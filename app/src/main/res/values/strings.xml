@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Hearthstone Area Tracker</string>
+    <string name="run_result_hint">Select Result</string>
+    <string name="class_hint">Enter Opponents Class</string>
+    <string name="run_details_label">Details</string>
+    <string name="game_win">Win</string>
+    <string name="game_loss">Loss</string>
+    <string name="class_title">Opponents Class</string>
+    <string name="game_number">Game Number:</string>
+
+
+
+
+</resources>
